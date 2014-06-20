@@ -1,5 +1,11 @@
 <RCC>
-  <qresource prefix="recursos" >
-    <file>iconos/Crystal_Clear_action_exit.png</file>
-  </qresource>
+    <qresource prefix="/recursos">
+        <file>iconos/Crystal_Clear_action_exit.png</file>
+        <file>iconos/4sides.png</file>
+        <file>iconos/6sides.png</file>
+        <file>iconos/10sides.png</file>
+        <file>iconos/12sides.png</file>
+        <file>iconos/20dice.png</file>
+        <file>iconos/play-icon.png</file>
+    </qresource>
 </RCC>
