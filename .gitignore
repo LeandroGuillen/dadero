@@ -1,2 +1,6 @@
 dadero
 .directory
+moc_*
+qrc_*
+*.o
+ui_*
